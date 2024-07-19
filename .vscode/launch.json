@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CalculadoraDeMedias",
+            "request": "launch",
+            "mainClass": "br.com.dio.debbuging.CalculadoraDeMedias",
+            "projectName": "dio-java-basico_568afe0c"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "br.com.dio.debugging.Main",
+            "projectName": "dio-java-basico_568afe0c"
+        },
+        {
+            "type": "java",
             "name": "FormatadorCepExemplo",
             "request": "launch",
             "mainClass": "FormatadorCepExemplo",
