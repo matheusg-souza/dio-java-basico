@@ -6,6 +6,13 @@
     "configurations": [
         {
             "type": "java",
+            "name": "Contador",
+            "request": "launch",
+            "mainClass": "Contador",
+            "projectName": "dio-java-basico_568afe0c"
+        },
+        {
+            "type": "java",
             "name": "CalculadoraDeMedias",
             "request": "launch",
             "mainClass": "br.com.dio.debbuging.CalculadoraDeMedias",
