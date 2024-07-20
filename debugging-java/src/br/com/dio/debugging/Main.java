@@ -1,4 +1,4 @@
-package br.com.dio.debbuging;
+package br.com.dio.debugging;
 public class Main {
     public static void main(String[] args) {
         System.out.println("Iniciou no programa no método Main");
