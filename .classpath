@@ -9,5 +9,6 @@
 	<classpathentry kind="src" path="meu-primeiro-projeto-java/src"/>
 	<classpathentry kind="src" path="sistema-smart-tv/src"/>
 	<classpathentry kind="src" path="tipos-variaveis/src"/>
+	<classpathentry kind="src" path="SimulacaoBancaria/src"/>
 	<classpathentry kind="output" path="ContaBanco/bin"/>
 </classpath>
