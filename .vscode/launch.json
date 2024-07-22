@@ -6,6 +6,41 @@
     "configurations": [
         {
             "type": "java",
+            "name": "ContaTerminal",
+            "request": "launch",
+            "mainClass": "ContaTerminal",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "ControleSimplesDeSaques",
+            "request": "launch",
+            "mainClass": "ControleSimplesDeSaques",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "VerificacaoChequeEspecial",
+            "request": "launch",
+            "mainClass": "VerificacaoChequeEspecial",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "VerificadorElegibilidadeConta",
+            "request": "launch",
+            "mainClass": "VerificadorElegibilidadeConta",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
+            "name": "SimulacaoBancaria",
+            "request": "launch",
+            "mainClass": "SimulacaoBancaria",
+            "projectName": "dio"
+        },
+        {
+            "type": "java",
             "name": "Contador",
             "request": "launch",
             "mainClass": "Contador",
